@@ -1,1 +1,1 @@
-# hello-world
+Nazdar, tohle je pokus pochopit GitHub
